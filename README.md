@@ -1,5 +1,4 @@
-# AgroDirect
-AgroDirect 🌾
+# AgroDirect 🌾
 AgroDirect is a web-based platform created to help farmers sell their agricultural products directly to buyers without depending on middlemen. This website acts as a digital marketplace where farmers can showcase their crops and buyers can easily find fresh and affordable produce.
 The main idea behind AgroDirect is to reduce the gap between farmers and consumers. By using this platform, farmers get better prices for their hard work, and customers get fresh products directly from the source. This makes the whole process more transparent, fair, and efficient.
 AgroDirect is designed to be simple so that even users with basic technical knowledge can use it easily. The website focuses on a clean interface, easy navigation, and smooth interaction between farmers and buyers.
